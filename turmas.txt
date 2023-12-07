@@ -5,3 +5,8 @@ Turmas ativas
 - Health
 - Nature
 - Mais uma que eu não lembro o nome
+- Turma 1
+- Turma 2
+- Turma 3
+- Turma 4
+- Turma 5
